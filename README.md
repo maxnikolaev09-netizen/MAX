@@ -1,1 +1,9 @@
-I'm a programmer 12345S
+# Конспекты по предмету
+
+Это мой репозиторий для заданий и конспектов.
+
+Навигация
+- [Основы редактирования текста](/Text.md)
+- [Markdown](/Markdown.md)
+- [теория HTML](/HTML/theory.md)
+- [индекс HTML](/HTML/index.html)
