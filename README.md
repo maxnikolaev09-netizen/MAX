@@ -5,5 +5,5 @@
 Навигация
 - [Основы редактирования текста](/Text.md)
 - [Markdown](/Markdown.md)
-- [теория HTML](/HTML/theory.md)
-- [индекс HTML](/HTML/index.html)
+- [теория HTML](/ipo8581/HTML/theory.md)
+- [индекс HTML](/ipo8581/HTML/index.html)
