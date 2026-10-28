@@ -16,3 +16,4 @@
 
 [Сайт №1](https://maxnikolaev09-netizen.github.io/My-site_Max/)
 [Сайт команданая работа](https://maxnikolaev09-netizen.github.io/CinemaHere/)
+[Конспект самого лучшего преподователя](https://github.com/rurewa/imfua)
