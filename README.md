@@ -1,3 +1,5 @@
+![Крутой](./ipo8581/imahe/Krutoi.png)
+
 # Конспекты по предмету
 
 Это мой репозиторий для заданий и конспектов.
@@ -12,8 +14,10 @@
 - [теория HTML](/ipo8581/HTML/theory.md)
 - [индекс HTML](/ipo8581/HTML/index.html)
 
+![Крутой](./ipo8581/imahe/pilots.jpg)
+
 12/10/2026
 
-- [Сайт №1](https://maxnikolaev09-netizen.github.io/My-site_Max/)
-- [Сайт команданая работа](https://maxnikolaev09-netizen.github.io/CinemaHere/)
+- [Сайт №1](https://github.com/maxnikolaev09-netizen/My-site_Max)
+- [Сайт команданая работа](https://github.com/maxnikolaev09-netizen/CinemaHere)
 - [Конспект самого лучшего преподователя](https://github.com/rurewa/imfua)
