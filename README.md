@@ -20,7 +20,7 @@
 12/10/2026
 
 - [Сайт №1](https://github.com/maxnikolaev09-netizen/My-site_Max)
-- [Сайт команданая работа](https://github.com/maxnikolaev09-netizen/CinemaHere)
+- [Сайт команданая работа](https://github.com/maxnikolaev09-netizen/CinemaHere)q
 - [Конспект самого лучшего преподователя](https://github.com/rurewa/imfua)
 
 Хрю
