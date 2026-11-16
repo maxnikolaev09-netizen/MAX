@@ -22,5 +22,6 @@
 - [Сайт №1](https://github.com/maxnikolaev09-netizen/My-site_Max)
 - [Сайт команданая работа](https://github.com/maxnikolaev09-netizen/CinemaHere)q
 - [Конспект самого лучшего преподователя](https://github.com/rurewa/imfua)
+- [Лабораторные работы](https://github.com/maxnikolaev09-netizen/MAX/tree/main/ipo8581/Markdown/LabWork)
 
 Хрю
