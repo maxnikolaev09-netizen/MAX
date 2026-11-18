@@ -32,8 +32,8 @@ docker exec -it ollama ollama run phi4
 ```shell
 docker run -d -p 3000:8081 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
 
-![Картинка1](./img/31.png)
 ```
+![Картинка1](./img/31.png)
 [Открыть чат в браузере](http://localhost:3000)
 или
 [Открыть чат в браузере](http://0.0.0.0:3000)
@@ -53,14 +53,14 @@ docker run -d -p 8081:8080 \
 ```shell
 docker exec -it open-webui ollama pull llama3.2:1b
 
-![2](./img/2.png)
 ```
+![2](./img/2.png)
 показать установленные модели:
 ```shell
 docker exec -it open-webui ollama list
 
-![3](./img/3.png)
 ```
+![3](./img/3.png)
 
 Задать вопрос возможностях используемой локальной нейросети и сделать скриншот её ответ.
 
